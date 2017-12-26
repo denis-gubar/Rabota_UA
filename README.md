@@ -1,2 +1,2 @@
 # Rabota_UA
-Python project for scrapping rabota.ua site
+Python project for scrapping [rabota.ua](https://rabota.ua) site
